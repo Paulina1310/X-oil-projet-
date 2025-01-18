@@ -12,8 +12,9 @@ Capture et analyse des paquets réseau via Wireshark.
 Rapport technique pour les décideurs de X-OIL.
 
 📂 Structure du Projet
-TPG001_Reseaux/
 
+TPG001_Reseaux/
+TPG001_Reseaux/
 ├── README.md            # Ce fichier
 ├── Network_Simulation/  # Fichiers de simulation (Cisco Packet Tracer)
 │   ├── simulation.pkt   # Fichier Packet Tracer
